@@ -12,4 +12,4 @@ const dbConfig = {
 };
 ```
 
-Script Created by [@y-nabeelxd](https://github.com/y-nabeelxd) / [@NKMODS](https://github.com/NKMODS)
+Script Created by [@y-nabeelxd](https://github.com/y-nabeelxd) / [@nabeelxdd](https://github.com/nabeelxdd)
